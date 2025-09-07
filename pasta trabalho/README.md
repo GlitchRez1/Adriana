@@ -14,3 +14,5 @@ https://lucid.app/lucidchart/172d0b2a-b31a-4bc1-9fd2-09d4b74f244a/edit?viewport_
 <h1 align="center"> Tarefa 5 </h1>
 <img width="1477" height="348" alt="Image" src="https://github.com/user-attachments/assets/7e5748e5-3052-4849-957d-8e504667da10" />
 https://lucid.app/lucidchart/7b6acdd9-2ccf-4a14-a0c8-230dbf4779dd/edit?viewport_loc=-42%2C313%2C3695%2C2017%2C0_0&invitationId=inv_a21092bd-9101-4bf2-9a73-96f3bef052a5
+
+As demais tarefas estão na pasta "programas para a Adriana" .
