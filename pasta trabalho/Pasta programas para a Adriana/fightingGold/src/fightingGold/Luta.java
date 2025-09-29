@@ -1,11 +1,11 @@
 package fightingGold;
 
 public class Luta {
-	double peso;
-	int intensidade;
-	String motivo;
+	boolean finale;
+	int oponentes;
+	String local;
 	
-	public void enfurecer() {
+	public void iniciarLuta() {
 		
 	}
 }

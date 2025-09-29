@@ -1,11 +1,11 @@
 package fightingGold;
 
 public class Sentimento {
-	boolean finale;
-	int oponentes;
-	String local;
+	double peso;
+	int intensidade;
+	String motivo;
 	
-	public void iniciarLuta() {
+	public void enfurecer() {
 		
 	}
 }

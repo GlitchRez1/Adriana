@@ -1,0 +1,15 @@
+Obra:
+Título: sim
+Artista: não
+Material: se pá
+
+Material:
+Tipo: sim
+Origem: sim
+Peso: sim
+
+Mensagem:
+Tema: sim
+Referência: sim
+Impacto: sim
+---------------------------------

@@ -1,0 +1,45 @@
+Luta:
+Finale: true
+Oponentes: 509
+Local: fatec
+
+Sentimento:
+Peso: 10.98
+Intensidade: 8
+Motivo: sim
+
+Esperança:
+Brilho: 8
+Frequência: 80
+Fonte: briga
+---------------------------------
+Luta:
+Finale: true
+Oponentes: 509
+Local: fatec
+
+Sentimento:
+Peso: 10.98
+Intensidade: 8
+Motivo: sim
+
+Esperança:
+Brilho: 8
+Frequência: 80
+Fonte: briga
+---------------------------------
+Luta:
+Finale: true
+Oponentes: 509
+Local: fatec
+
+Sentimento:
+Peso: 10.98
+Intensidade: 8
+Motivo: sim
+
+Esperança:
+Brilho: 8
+Frequência: 80
+Fonte: briga
+---------------------------------
